@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.required_ruby_version = '>= 2.1.0'
 
-  s.add_dependency("railties", "~> 6.0", "'>= 6.0.2.2")
+  s.add_dependency("railties", "~> 6.0", ">= 6.0.2.2")
 end
